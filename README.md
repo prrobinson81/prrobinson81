@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prrobinson81
-- 👀 I’m interested in C# and SQL.
+- 👀 I’m interested in C# and SQL, along with PowerShell - yep, I'm a Microsoft Stack kinda guy.
 - 🌱 I’m currently learning whatever I need to get the next project working
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on Twitter, with the same handle.
